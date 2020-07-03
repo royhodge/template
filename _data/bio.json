@@ -2,7 +2,7 @@
   "basics": {
     "name": "Roy Hodge",
     "label": "Consultant",
-    "picture": "https://royhodge.github.io/template/images/roy.png",
+    "picture": "https://royhodge.github.io/template/images/roy.jpg",
     "email": "roy.hodge@mail.com",
     "phone": "409-622-3679",
     "website": "https://royhodge.github.io",
@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "royhodge",
         "url": "http://github.com/changeme"
       },
       {
@@ -27,7 +27,7 @@
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "aseriousgogetta",
         "url": "http://twitter.com/changeme"
       },
       {

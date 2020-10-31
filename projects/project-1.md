@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: An AI Infused FarmBot GrowOp
+permalink: projects/farmbot
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Needs Funding!
+  - Hardware Requirements
+  - Software Requirements
+summary: My team will develop a robotic "smartfarm" that will win first place in the 2025 robotic Micro-grow competition.
 ---
 
 <div class="ui small rounded images">

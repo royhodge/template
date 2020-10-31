@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: A Really "Smart" Farm
+title: farmbot
 permalink: projects/farmbot
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01

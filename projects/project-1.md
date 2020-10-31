@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: farmbot
-permalink: projects/farmbot
+permalink: projects/project-1
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01
 labels:
